@@ -1,5 +1,5 @@
 # comunistas
-Lista de fontes de noticias ou figuras publicas comunistas que se posicionaram contra bolsonaro
+Lista de fontes de noticias ou figuras publicas que se posicionaram contra bolsonaro
 
 1. [Joaquim Barbosa](https://br.noticias.yahoo.com/joaquim-barbosa-declara-voto-em-haddad-pela-primeira-vez-em-32-anos-um-candidato-inspira-medo-135141472.html)
 1. [Marie Le Pen (Lider da extrema direita na
