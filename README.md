@@ -6,8 +6,8 @@ Lista de fontes de noticias ou figuras publicas que se posicionaram contra bolso
    ranca)](https://noticias.uol.com.br/politica/eleicoes/2018/noticias/agencia-estado/2018/10/11/marine-le-pen-critica-bolsonaro-diz-coisas-extremamente-desagradaveis.htm)
 1. [Francis Fukuyama (mentor da onda conservadora de Ronald Reagan)](https://www1.folha.uol.com.br/ilustrissima/2018/04/bolsonaro-e-uma-ameaca-a-democracia-diz-francis-fukuyama.shtml)
 1. [Fernando Henrique Cardoso]()
-1. [The Economist]
-1. [Financial Times]
+1. [The Economist]()
+1. [Financial Times]()
 1. [Eymael]()
 1. [Madona]()
 1. [Papa]()
