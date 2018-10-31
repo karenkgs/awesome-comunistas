@@ -13,4 +13,5 @@ Lista de fontes de noticias ou figuras publicas que se posicionaram contra bolso
 1. [Papa]()
 1. [Rogério Water]()
 1. [Elza Soares]()
+1. [Sasha Meneghel](https://mdemulher.abril.com.br/famosos-e-tv/sasha-se-posiciona-contra-bolsonaro-e-vira-alvo-de-ataques-no-instagram/)
 
